@@ -17,3 +17,7 @@ Rabix Composer could
 - Allow us to add this manually (perhaps as an input option)
 - Autodetect and add this automatically
   - Bogdan points out this should account for `scatter`
+
+OR
+
+We could relax strictness and just make such a connection as a warning
